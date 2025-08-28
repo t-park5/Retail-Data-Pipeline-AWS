@@ -1,0 +1,101 @@
+title,price,age_group,genre,book_id,transaction_id
+The Alchemist,27.14,30s,Fiction,B458702,T34121385
+Think Like a Monk,36.89,50s,Self-Help,B200551,T45914769
+1984,10.34,20s,Fiction,B329457,T24527454
+The Alchemist,20.51,20s,Fiction,B316080,T15200334
+The Silent Patient,26.57,40s,Thriller,B327999,T25751368
+Think and Grow Rich,29.09,40s,Self-Help,B714919,T77619957
+Think and Grow Rich,10.13,10s,Self-Help,B882072,T43637657
+The Seven Husbands of Evelyn Hugo,13.17,10s,Fiction,B489640,T71998089
+It Ends with Us,31.98,20s,Romance,B775265,T47572833
+Rich Dad Poor Dad,28.53,60s,Finance,B630859,T46436550
+Project Hail Mary,29.86,20s,Science Fiction,B380761,T54943314
+The Power of Now,20.44,10s,Spirituality,B293807,T48247837
+The Alchemist,19.91,20s,Fiction,B191578,T52859794
+The Great Gatsby,16.58,40s,Classic,B603501,T20874324
+Think and Grow Rich,23.17,30s,Self-Help,B144514,T69722834
+1984,25.64,60s,Fiction,B948671,T36094617
+The Da Vinci Code,26.03,10s,Mystery,B698123,T80047676
+The Great Gatsby,19.37,60s,Classic,B500513,T21909478
+To Kill a Mockingbird,31.58,20s,Classic,B369906,T72846114
+It Ends with Us,38.36,50s,Romance,B147428,T49013396
+The Midnight Library,10.75,10s,Fiction,B451596,T59418605
+1984,12.37,10s,Fiction,B632143,T77038803
+Atomic Habits,36.01,40s,Self-Help,B921433,T46429506
+The Psychology of Money,19.15,40s,Finance,B828963,T41584078
+Sapiens,14.98,60s,History,B133166,T66653253
+It Ends with Us,12.19,10s,Romance,B275324,T86560442
+Dune,39.63,60s,Science Fiction,B331268,T82311504
+The Alchemist,16.31,40s,Fiction,B383101,T45408425
+It Ends with Us,18.04,50s,Romance,B784947,T17690026
+The Da Vinci Code,38.21,20s,Mystery,B230238,T81964908
+Dune,29.02,50s,Science Fiction,B292378,T75872644
+The Power of Now,31.19,20s,Spirituality,B836395,T35677666
+Think and Grow Rich,24.42,40s,Self-Help,B386479,T43427168
+It Ends with Us,12.8,40s,Romance,B940320,T68282896
+Think and Grow Rich,15.91,50s,Self-Help,B191376,T86858318
+Think Like a Monk,11.17,40s,Self-Help,B267340,T46299636
+Dune,10.72,50s,Science Fiction,B177051,T62160982
+To Kill a Mockingbird,13.68,60s,Classic,B194811,T88251945
+It Ends with Us,39.11,10s,Romance,B719750,T68171209
+Think and Grow Rich,20.88,20s,Self-Help,B982128,T38910928
+The Song of Achilles,39.05,60s,Historical Fiction,B888651,T59907002
+1984,38.65,20s,Fiction,B889015,T23436685
+The Power of Now,23.14,20s,Spirituality,B152739,T68549309
+Where the Crawdads Sing,22.68,30s,Fiction,B304849,T36081187
+Sapiens,27.64,30s,History,B934819,T28927902
+Think and Grow Rich,36.95,10s,Self-Help,B355319,T43178396
+Project Hail Mary,29.09,10s,Science Fiction,B189943,T90456476
+The Midnight Library,16.84,60s,Fiction,B296192,T79857052
+Think Like a Monk,25.62,30s,Self-Help,B218965,T51581612
+The Great Gatsby,30.4,60s,Classic,B840642,T13947863
+Rich Dad Poor Dad,19.32,50s,Finance,B854483,T66220062
+The Silent Patient,38.48,50s,Thriller,B752692,T41351367
+It Ends with Us,34.0,50s,Romance,B481626,T45144740
+The Power of Now,23.42,40s,Spirituality,B370342,T35521592
+The Power of Now,25.47,50s,Spirituality,B966797,T85039176
+Think Like a Monk,37.84,60s,Self-Help,B714393,T67978416
+The Great Gatsby,10.43,10s,Classic,B513742,T25391399
+The Song of Achilles,33.44,30s,Historical Fiction,B880975,T27981952
+The Seven Husbands of Evelyn Hugo,31.97,60s,Fiction,B798720,T60688825
+The Seven Husbands of Evelyn Hugo,29.78,10s,Fiction,B590346,T71154405
+The Psychology of Money,39.1,10s,Finance,B606811,T92192618
+Think and Grow Rich,37.69,60s,Self-Help,B946494,T99630711
+Dune,30.7,60s,Science Fiction,B406916,T26426170
+Atomic Habits,10.44,20s,Self-Help,B945866,T31676033
+The Song of Achilles,24.23,10s,Historical Fiction,B585995,T30743567
+To Kill a Mockingbird,38.77,30s,Classic,B583672,T26496039
+The Psychology of Money,18.62,20s,Finance,B370613,T14148440
+The Da Vinci Code,30.11,50s,Mystery,B941492,T47489101
+The Silent Patient,30.89,50s,Thriller,B379431,T85597967
+The Da Vinci Code,33.39,60s,Mystery,B549241,T51688932
+Dune,12.02,20s,Science Fiction,B708890,T97302615
+The Song of Achilles,15.62,20s,Historical Fiction,B853911,T99458179
+Where the Crawdads Sing,15.9,20s,Fiction,B957466,T73336515
+The Psychology of Money,29.93,10s,Finance,B894212,T99569417
+Where the Crawdads Sing,12.01,50s,Fiction,B816809,T64884630
+Atomic Habits,29.96,20s,Self-Help,B930787,T63741810
+To Kill a Mockingbird,36.1,30s,Classic,B571253,T91927408
+Atomic Habits,21.35,50s,Self-Help,B488565,T89519154
+The Great Gatsby,21.91,30s,Classic,B454295,T26750244
+The Silent Patient,19.49,40s,Thriller,B259581,T50642928
+Dune,39.09,30s,Science Fiction,B567094,T95091349
+Sapiens,11.69,50s,History,B415370,T89152495
+Project Hail Mary,21.47,20s,Science Fiction,B779084,T60804099
+The Alchemist,34.04,40s,Fiction,B269014,T23834770
+Atomic Habits,27.32,50s,Self-Help,B561150,T59291349
+The Great Gatsby,34.68,20s,Classic,B743900,T62158044
+It Ends with Us,13.25,20s,Romance,B191668,T25340166
+The Alchemist,27.69,50s,Fiction,B491156,T41907505
+The Da Vinci Code,38.18,20s,Mystery,B930883,T75023066
+The Power of Now,26.68,60s,Spirituality,B751495,T50192591
+The Power of Now,19.01,30s,Spirituality,B966988,T48606366
+The Da Vinci Code,31.61,40s,Mystery,B886847,T97651503
+The Da Vinci Code,16.54,10s,Mystery,B978951,T22605842
+Where the Crawdads Sing,10.76,20s,Fiction,B196747,T98258569
+Atomic Habits,38.22,50s,Self-Help,B716468,T18555148
+The Song of Achilles,16.69,50s,Historical Fiction,B877511,T80896641
+The Da Vinci Code,23.04,40s,Mystery,B475932,T61478251
+It Ends with Us,34.92,40s,Romance,B324445,T36089011
+The Song of Achilles,22.15,20s,Historical Fiction,B163828,T74085658
+Where the Crawdads Sing,30.91,20s,Fiction,B384337,T39764391
