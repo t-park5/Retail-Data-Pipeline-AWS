@@ -37,6 +37,7 @@ glueContext.write_dynamic_frame.from_options(
     format="parquet"
 )
 
+'''
 # DynamoDB에 저장 부분 수정
 glueContext.write_dynamic_frame.from_options(
     frame=mapped_dyf,
@@ -48,7 +49,7 @@ glueContext.write_dynamic_frame.from_options(
     }
 )
 
-
+'''
 # Redshift 부분 활성화
 #glueContext.write_dynamic_frame.from_jdbc_conf(
 #    frame=mapped_dyf,
