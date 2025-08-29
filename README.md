@@ -9,7 +9,6 @@ It solves a key challenge in modern retail: **efficiently processing and analyzi
 - **Automated data processing** for multiple file formats:
   - CSV
   - JSON
-  - XLSX
 - **Secure & scalable data storage**
   - Raw data stored in **Amazon S3** with version control
   - Processed data stored in **Parquet** format for optimized analytics
@@ -29,7 +28,7 @@ It solves a key challenge in modern retail: **efficiently processing and analyzi
 ## 🏗️ Architecture Overview
 ### Components
 - **S3 Buckets**
-  - Source bucket: raw CSV/JSON/XLSX
+  - Source bucket: raw CSV/JSON
   - Processed bucket: partitioned Parquet files
 - **Lambda**
   - `file_validator`: checks format & triggers Step Functions
@@ -52,7 +51,7 @@ It solves a key challenge in modern retail: **efficiently processing and analyzi
 
 ## 🔄 Processing Flow
 1. **Data Ingestion**  
-   Uploading files (CSV, JSON, XLSX) to the S3 source bucket triggers **EventBridge** and starts the pipeline.  
+   Uploading files (CSV, JSON) to the S3 source bucket triggers **EventBridge** and starts the pipeline.  
 
 2. **ETL Transformation**  
    AWS Glue validates, transforms, and converts raw data into **standardized Parquet format**, partitioned for efficient querying.  
@@ -81,4 +80,18 @@ It solves a key challenge in modern retail: **efficiently processing and analyzi
 
 ---
 
-## 📂 Repository Structure (Suggested)
+
+---
+
+## ⚡ Getting Started
+1. Upload transaction files (`CSV`, `JSON`) to the **S3 source bucket**.  
+2. The pipeline will automatically:
+   - Validate the file format  
+   - Trigger ETL jobs  
+   - Store processed data in Parquet format  
+3. Query transformed data via **Athena** or **Redshift**.  
+
+---
+
+
+
