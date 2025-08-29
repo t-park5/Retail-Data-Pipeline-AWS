@@ -1,0 +1,101 @@
+title,price,age_group,genre,book_id,transaction_id
+Sapiens,30.16,40s,History,B712380,T40329218
+Think and Grow Rich,36.12,60s,Self-Help,B816843,T10561275
+The Da Vinci Code,39.27,60s,Mystery,B761671,T86245947
+Dune,11.46,60s,Science Fiction,B492320,T43726660
+Sapiens,26.65,20s,History,B447271,T91903442
+The Psychology of Money,23.75,10s,Finance,B607537,T47847007
+Think Like a Monk,33.71,10s,Self-Help,B960000,T62818245
+The Power of Now,38.92,40s,Spirituality,B332775,T91510766
+The Power of Now,27.51,50s,Spirituality,B191410,T49249575
+Dune,21.16,50s,Science Fiction,B291033,T87850425
+The Alchemist,17.77,50s,Fiction,B480724,T65612692
+Dune,18.8,10s,Science Fiction,B970386,T64154203
+Dune,15.12,40s,Science Fiction,B574367,T59923415
+The Song of Achilles,14.04,20s,Historical Fiction,B827834,T65608035
+Atomic Habits,38.18,40s,Self-Help,B463287,T80070847
+The Da Vinci Code,28.13,50s,Mystery,B688071,T61995757
+Dune,37.97,20s,Science Fiction,B157621,T95639675
+The Psychology of Money,10.57,10s,Finance,B152855,T58836796
+Atomic Habits,35.67,30s,Self-Help,B686931,T37875741
+Think and Grow Rich,25.01,30s,Self-Help,B852672,T91791536
+The Song of Achilles,10.05,20s,Historical Fiction,B808081,T16700684
+The Great Gatsby,26.75,50s,Classic,B604433,T65889900
+The Song of Achilles,13.6,40s,Historical Fiction,B749426,T58687454
+The Song of Achilles,34.44,50s,Historical Fiction,B204315,T76699864
+Dune,21.46,30s,Science Fiction,B379674,T49173761
+The Psychology of Money,11.8,30s,Finance,B622232,T87121794
+Think and Grow Rich,31.21,60s,Self-Help,B224466,T36380970
+Dune,25.81,50s,Science Fiction,B911684,T29914256
+The Alchemist,20.68,60s,Fiction,B154918,T77776725
+Sapiens,32.96,50s,History,B321409,T80836595
+Rich Dad Poor Dad,29.03,40s,Finance,B449868,T57286848
+Dune,24.04,50s,Science Fiction,B550759,T18802032
+The Midnight Library,15.83,10s,Fiction,B883819,T82785922
+Project Hail Mary,36.27,60s,Science Fiction,B509480,T90751825
+The Alchemist,23.65,10s,Fiction,B104379,T93961641
+Think Like a Monk,34.03,20s,Self-Help,B805124,T55996209
+The Seven Husbands of Evelyn Hugo,21.1,50s,Fiction,B643488,T22948249
+The Song of Achilles,34.86,50s,Historical Fiction,B552133,T32610717
+Think and Grow Rich,30.7,50s,Self-Help,B220069,T97549291
+The Seven Husbands of Evelyn Hugo,33.77,30s,Fiction,B435030,T98576547
+The Da Vinci Code,39.62,50s,Mystery,B145465,T40941903
+The Song of Achilles,39.22,30s,Historical Fiction,B413538,T68435809
+Think and Grow Rich,36.03,10s,Self-Help,B604076,T29849152
+The Silent Patient,38.88,50s,Thriller,B219786,T25578666
+Think and Grow Rich,36.19,50s,Self-Help,B790582,T83536629
+The Silent Patient,13.07,60s,Thriller,B269223,T41633774
+Project Hail Mary,17.01,60s,Science Fiction,B867292,T68600850
+Think and Grow Rich,38.27,10s,Self-Help,B832969,T88299143
+1984,30.83,30s,Fiction,B116724,T73430616
+The Seven Husbands of Evelyn Hugo,11.41,60s,Fiction,B622560,T65811159
+1984,25.45,40s,Fiction,B925024,T84374925
+Sapiens,25.78,50s,History,B346888,T51002857
+The Song of Achilles,13.92,30s,Historical Fiction,B729070,T41712335
+1984,36.64,10s,Fiction,B377656,T36382147
+The Psychology of Money,17.35,50s,Finance,B677424,T25541317
+The Seven Husbands of Evelyn Hugo,11.45,60s,Fiction,B361330,T13697671
+The Alchemist,24.73,20s,Fiction,B569768,T34563815
+1984,13.52,20s,Fiction,B986553,T79228643
+The Da Vinci Code,35.99,10s,Mystery,B385946,T93544059
+Atomic Habits,10.32,30s,Self-Help,B583184,T76351747
+The Seven Husbands of Evelyn Hugo,14.57,40s,Fiction,B894169,T86270091
+Sapiens,22.81,40s,History,B128186,T90520577
+Think and Grow Rich,19.33,30s,Self-Help,B924214,T23991015
+The Silent Patient,20.35,30s,Thriller,B262616,T85152586
+Atomic Habits,37.57,10s,Self-Help,B783704,T47335999
+Think and Grow Rich,27.62,50s,Self-Help,B949065,T68248700
+The Great Gatsby,35.46,30s,Classic,B748441,T55205140
+The Power of Now,38.33,40s,Spirituality,B897273,T31993033
+1984,22.45,40s,Fiction,B255197,T43810934
+It Ends with Us,22.66,30s,Romance,B702204,T49228921
+The Power of Now,31.63,10s,Spirituality,B590094,T47557920
+Rich Dad Poor Dad,16.81,20s,Finance,B437794,T17201683
+Project Hail Mary,18.7,30s,Science Fiction,B351242,T10436268
+The Alchemist,12.7,10s,Fiction,B113224,T84233993
+The Song of Achilles,36.55,10s,Historical Fiction,B827219,T95165009
+Rich Dad Poor Dad,20.62,60s,Finance,B404195,T51806626
+1984,17.43,20s,Fiction,B929581,T71060476
+Project Hail Mary,16.09,40s,Science Fiction,B201124,T12045061
+It Ends with Us,28.69,20s,Romance,B344826,T83590620
+The Midnight Library,16.78,10s,Fiction,B705351,T97360284
+The Midnight Library,31.39,40s,Fiction,B777940,T10750137
+The Power of Now,17.26,60s,Spirituality,B443623,T52665488
+Sapiens,33.02,10s,History,B530787,T78346835
+The Alchemist,36.89,40s,Fiction,B897924,T94797793
+The Midnight Library,12.63,60s,Fiction,B451678,T63775927
+The Power of Now,13.12,60s,Spirituality,B397881,T50669834
+The Midnight Library,38.83,40s,Fiction,B522387,T72060022
+The Song of Achilles,35.43,10s,Historical Fiction,B252557,T38666573
+1984,26.94,10s,Fiction,B221450,T56015616
+To Kill a Mockingbird,18.04,60s,Classic,B275191,T49062096
+The Alchemist,17.15,60s,Fiction,B361783,T41911933
+The Alchemist,20.88,10s,Fiction,B143950,T18371174
+It Ends with Us,20.78,40s,Romance,B879810,T51611920
+1984,26.34,30s,Fiction,B540067,T39115911
+The Seven Husbands of Evelyn Hugo,36.86,60s,Fiction,B847922,T75284585
+1984,23.54,40s,Fiction,B523113,T46674097
+1984,33.94,10s,Fiction,B362819,T38912667
+Where the Crawdads Sing,28.42,30s,Fiction,B921685,T53886611
+The Seven Husbands of Evelyn Hugo,22.95,10s,Fiction,B467962,T32503079
+Think Like a Monk,30.85,30s,Self-Help,B480981,T69536842

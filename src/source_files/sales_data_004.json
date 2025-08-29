@@ -1,0 +1,802 @@
+[
+  {
+    "title": "The Great Gatsby",
+    "price": 15.49,
+    "age_group": "50s",
+    "genre": "Classic",
+    "book_id": "B794117",
+    "transaction_id": "T59466826"
+  },
+  {
+    "title": "Dune",
+    "price": 16.95,
+    "age_group": "60s",
+    "genre": "Science Fiction",
+    "book_id": "B803564",
+    "transaction_id": "T21819018"
+  },
+  {
+    "title": "Project Hail Mary",
+    "price": 29.39,
+    "age_group": "10s",
+    "genre": "Science Fiction",
+    "book_id": "B769009",
+    "transaction_id": "T88540731"
+  },
+  {
+    "title": "The Silent Patient",
+    "price": 27.48,
+    "age_group": "10s",
+    "genre": "Thriller",
+    "book_id": "B872270",
+    "transaction_id": "T70672486"
+  },
+  {
+    "title": "Dune",
+    "price": 21.4,
+    "age_group": "60s",
+    "genre": "Science Fiction",
+    "book_id": "B418037",
+    "transaction_id": "T19724240"
+  },
+  {
+    "title": "The Song of Achilles",
+    "price": 27.27,
+    "age_group": "30s",
+    "genre": "Historical Fiction",
+    "book_id": "B529214",
+    "transaction_id": "T78650307"
+  },
+  {
+    "title": "It Ends with Us",
+    "price": 31.43,
+    "age_group": "50s",
+    "genre": "Romance",
+    "book_id": "B247888",
+    "transaction_id": "T51942781"
+  },
+  {
+    "title": "Rich Dad Poor Dad",
+    "price": 22.42,
+    "age_group": "20s",
+    "genre": "Finance",
+    "book_id": "B289114",
+    "transaction_id": "T54914743"
+  },
+  {
+    "title": "The Great Gatsby",
+    "price": 29.15,
+    "age_group": "50s",
+    "genre": "Classic",
+    "book_id": "B718567",
+    "transaction_id": "T56695994"
+  },
+  {
+    "title": "Dune",
+    "price": 28.94,
+    "age_group": "10s",
+    "genre": "Science Fiction",
+    "book_id": "B981477",
+    "transaction_id": "T21531761"
+  },
+  {
+    "title": "The Alchemist",
+    "price": 31.5,
+    "age_group": "50s",
+    "genre": "Fiction",
+    "book_id": "B838462",
+    "transaction_id": "T92814788"
+  },
+  {
+    "title": "Think and Grow Rich",
+    "price": 16.02,
+    "age_group": "30s",
+    "genre": "Self-Help",
+    "book_id": "B539479",
+    "transaction_id": "T24360456"
+  },
+  {
+    "title": "Think and Grow Rich",
+    "price": 18.35,
+    "age_group": "60s",
+    "genre": "Self-Help",
+    "book_id": "B846892",
+    "transaction_id": "T70151400"
+  },
+  {
+    "title": "The Power of Now",
+    "price": 35.42,
+    "age_group": "50s",
+    "genre": "Spirituality",
+    "book_id": "B712716",
+    "transaction_id": "T56017533"
+  },
+  {
+    "title": "1984",
+    "price": 37.21,
+    "age_group": "60s",
+    "genre": "Fiction",
+    "book_id": "B451665",
+    "transaction_id": "T11943665"
+  },
+  {
+    "title": "Think Like a Monk",
+    "price": 11.99,
+    "age_group": "20s",
+    "genre": "Self-Help",
+    "book_id": "B195208",
+    "transaction_id": "T96983326"
+  },
+  {
+    "title": "The Da Vinci Code",
+    "price": 32.41,
+    "age_group": "20s",
+    "genre": "Mystery",
+    "book_id": "B619342",
+    "transaction_id": "T51891845"
+  },
+  {
+    "title": "1984",
+    "price": 33.93,
+    "age_group": "40s",
+    "genre": "Fiction",
+    "book_id": "B615671",
+    "transaction_id": "T43172430"
+  },
+  {
+    "title": "Where the Crawdads Sing",
+    "price": 32.89,
+    "age_group": "60s",
+    "genre": "Fiction",
+    "book_id": "B355036",
+    "transaction_id": "T36860801"
+  },
+  {
+    "title": "Sapiens",
+    "price": 14.1,
+    "age_group": "30s",
+    "genre": "History",
+    "book_id": "B699561",
+    "transaction_id": "T98845837"
+  },
+  {
+    "title": "Sapiens",
+    "price": 33.38,
+    "age_group": "10s",
+    "genre": "History",
+    "book_id": "B406050",
+    "transaction_id": "T78289143"
+  },
+  {
+    "title": "Where the Crawdads Sing",
+    "price": 36.17,
+    "age_group": "30s",
+    "genre": "Fiction",
+    "book_id": "B425545",
+    "transaction_id": "T92660905"
+  },
+  {
+    "title": "Project Hail Mary",
+    "price": 23.21,
+    "age_group": "30s",
+    "genre": "Science Fiction",
+    "book_id": "B578764",
+    "transaction_id": "T40157189"
+  },
+  {
+    "title": "Where the Crawdads Sing",
+    "price": 27.98,
+    "age_group": "60s",
+    "genre": "Fiction",
+    "book_id": "B782974",
+    "transaction_id": "T57622145"
+  },
+  {
+    "title": "To Kill a Mockingbird",
+    "price": 16.21,
+    "age_group": "40s",
+    "genre": "Classic",
+    "book_id": "B244881",
+    "transaction_id": "T78396304"
+  },
+  {
+    "title": "Think Like a Monk",
+    "price": 21.44,
+    "age_group": "60s",
+    "genre": "Self-Help",
+    "book_id": "B788533",
+    "transaction_id": "T86573586"
+  },
+  {
+    "title": "Think Like a Monk",
+    "price": 37.61,
+    "age_group": "50s",
+    "genre": "Self-Help",
+    "book_id": "B950726",
+    "transaction_id": "T40448170"
+  },
+  {
+    "title": "To Kill a Mockingbird",
+    "price": 17.45,
+    "age_group": "50s",
+    "genre": "Classic",
+    "book_id": "B789055",
+    "transaction_id": "T88683205"
+  },
+  {
+    "title": "Where the Crawdads Sing",
+    "price": 35.42,
+    "age_group": "50s",
+    "genre": "Fiction",
+    "book_id": "B112841",
+    "transaction_id": "T40772689"
+  },
+  {
+    "title": "To Kill a Mockingbird",
+    "price": 14.93,
+    "age_group": "60s",
+    "genre": "Classic",
+    "book_id": "B402633",
+    "transaction_id": "T94711058"
+  },
+  {
+    "title": "Think Like a Monk",
+    "price": 38.8,
+    "age_group": "20s",
+    "genre": "Self-Help",
+    "book_id": "B399836",
+    "transaction_id": "T70663833"
+  },
+  {
+    "title": "The Alchemist",
+    "price": 27.68,
+    "age_group": "30s",
+    "genre": "Fiction",
+    "book_id": "B885883",
+    "transaction_id": "T55448222"
+  },
+  {
+    "title": "The Da Vinci Code",
+    "price": 18.63,
+    "age_group": "30s",
+    "genre": "Mystery",
+    "book_id": "B332526",
+    "transaction_id": "T23977532"
+  },
+  {
+    "title": "To Kill a Mockingbird",
+    "price": 33.35,
+    "age_group": "60s",
+    "genre": "Classic",
+    "book_id": "B886457",
+    "transaction_id": "T48750113"
+  },
+  {
+    "title": "Atomic Habits",
+    "price": 35.58,
+    "age_group": "30s",
+    "genre": "Self-Help",
+    "book_id": "B145847",
+    "transaction_id": "T70662841"
+  },
+  {
+    "title": "Think Like a Monk",
+    "price": 37.57,
+    "age_group": "10s",
+    "genre": "Self-Help",
+    "book_id": "B680897",
+    "transaction_id": "T80083663"
+  },
+  {
+    "title": "The Song of Achilles",
+    "price": 28.87,
+    "age_group": "60s",
+    "genre": "Historical Fiction",
+    "book_id": "B424599",
+    "transaction_id": "T76021552"
+  },
+  {
+    "title": "Think and Grow Rich",
+    "price": 12.66,
+    "age_group": "20s",
+    "genre": "Self-Help",
+    "book_id": "B596619",
+    "transaction_id": "T86424089"
+  },
+  {
+    "title": "The Psychology of Money",
+    "price": 19.02,
+    "age_group": "20s",
+    "genre": "Finance",
+    "book_id": "B630545",
+    "transaction_id": "T82473226"
+  },
+  {
+    "title": "Think Like a Monk",
+    "price": 13.4,
+    "age_group": "30s",
+    "genre": "Self-Help",
+    "book_id": "B923443",
+    "transaction_id": "T71131757"
+  },
+  {
+    "title": "1984",
+    "price": 38.01,
+    "age_group": "20s",
+    "genre": "Fiction",
+    "book_id": "B584919",
+    "transaction_id": "T81192610"
+  },
+  {
+    "title": "The Seven Husbands of Evelyn Hugo",
+    "price": 11.53,
+    "age_group": "40s",
+    "genre": "Fiction",
+    "book_id": "B595896",
+    "transaction_id": "T14895796"
+  },
+  {
+    "title": "Sapiens",
+    "price": 28.57,
+    "age_group": "30s",
+    "genre": "History",
+    "book_id": "B505707",
+    "transaction_id": "T20693508"
+  },
+  {
+    "title": "Think Like a Monk",
+    "price": 35.21,
+    "age_group": "40s",
+    "genre": "Self-Help",
+    "book_id": "B439616",
+    "transaction_id": "T59286649"
+  },
+  {
+    "title": "Think and Grow Rich",
+    "price": 35.26,
+    "age_group": "10s",
+    "genre": "Self-Help",
+    "book_id": "B253303",
+    "transaction_id": "T11354938"
+  },
+  {
+    "title": "The Midnight Library",
+    "price": 23.09,
+    "age_group": "20s",
+    "genre": "Fiction",
+    "book_id": "B908135",
+    "transaction_id": "T37204172"
+  },
+  {
+    "title": "It Ends with Us",
+    "price": 18.43,
+    "age_group": "40s",
+    "genre": "Romance",
+    "book_id": "B993012",
+    "transaction_id": "T26384279"
+  },
+  {
+    "title": "The Power of Now",
+    "price": 25.74,
+    "age_group": "30s",
+    "genre": "Spirituality",
+    "book_id": "B270058",
+    "transaction_id": "T18667802"
+  },
+  {
+    "title": "The Da Vinci Code",
+    "price": 34.48,
+    "age_group": "30s",
+    "genre": "Mystery",
+    "book_id": "B982906",
+    "transaction_id": "T62913762"
+  },
+  {
+    "title": "The Silent Patient",
+    "price": 16.36,
+    "age_group": "10s",
+    "genre": "Thriller",
+    "book_id": "B543602",
+    "transaction_id": "T97294431"
+  },
+  {
+    "title": "The Psychology of Money",
+    "price": 16.35,
+    "age_group": "40s",
+    "genre": "Finance",
+    "book_id": "B202193",
+    "transaction_id": "T11572983"
+  },
+  {
+    "title": "Dune",
+    "price": 25.0,
+    "age_group": "20s",
+    "genre": "Science Fiction",
+    "book_id": "B770485",
+    "transaction_id": "T20004250"
+  },
+  {
+    "title": "The Power of Now",
+    "price": 29.47,
+    "age_group": "20s",
+    "genre": "Spirituality",
+    "book_id": "B674693",
+    "transaction_id": "T99089008"
+  },
+  {
+    "title": "Atomic Habits",
+    "price": 32.98,
+    "age_group": "60s",
+    "genre": "Self-Help",
+    "book_id": "B113392",
+    "transaction_id": "T43151562"
+  },
+  {
+    "title": "The Midnight Library",
+    "price": 25.69,
+    "age_group": "40s",
+    "genre": "Fiction",
+    "book_id": "B541440",
+    "transaction_id": "T98330374"
+  },
+  {
+    "title": "Think and Grow Rich",
+    "price": 30.41,
+    "age_group": "20s",
+    "genre": "Self-Help",
+    "book_id": "B829821",
+    "transaction_id": "T84403062"
+  },
+  {
+    "title": "The Power of Now",
+    "price": 24.3,
+    "age_group": "60s",
+    "genre": "Spirituality",
+    "book_id": "B802415",
+    "transaction_id": "T60090398"
+  },
+  {
+    "title": "To Kill a Mockingbird",
+    "price": 21.72,
+    "age_group": "50s",
+    "genre": "Classic",
+    "book_id": "B116089",
+    "transaction_id": "T71605329"
+  },
+  {
+    "title": "The Silent Patient",
+    "price": 33.95,
+    "age_group": "40s",
+    "genre": "Thriller",
+    "book_id": "B569093",
+    "transaction_id": "T82955944"
+  },
+  {
+    "title": "The Song of Achilles",
+    "price": 10.89,
+    "age_group": "60s",
+    "genre": "Historical Fiction",
+    "book_id": "B783645",
+    "transaction_id": "T81506045"
+  },
+  {
+    "title": "The Midnight Library",
+    "price": 22.35,
+    "age_group": "60s",
+    "genre": "Fiction",
+    "book_id": "B927832",
+    "transaction_id": "T34447659"
+  },
+  {
+    "title": "The Midnight Library",
+    "price": 16.64,
+    "age_group": "60s",
+    "genre": "Fiction",
+    "book_id": "B487981",
+    "transaction_id": "T61335830"
+  },
+  {
+    "title": "Where the Crawdads Sing",
+    "price": 30.25,
+    "age_group": "30s",
+    "genre": "Fiction",
+    "book_id": "B445712",
+    "transaction_id": "T17191917"
+  },
+  {
+    "title": "Project Hail Mary",
+    "price": 26.2,
+    "age_group": "50s",
+    "genre": "Science Fiction",
+    "book_id": "B482811",
+    "transaction_id": "T91419242"
+  },
+  {
+    "title": "The Midnight Library",
+    "price": 30.85,
+    "age_group": "60s",
+    "genre": "Fiction",
+    "book_id": "B770587",
+    "transaction_id": "T57392370"
+  },
+  {
+    "title": "The Seven Husbands of Evelyn Hugo",
+    "price": 24.18,
+    "age_group": "10s",
+    "genre": "Fiction",
+    "book_id": "B712545",
+    "transaction_id": "T50247403"
+  },
+  {
+    "title": "The Da Vinci Code",
+    "price": 12.25,
+    "age_group": "10s",
+    "genre": "Mystery",
+    "book_id": "B962670",
+    "transaction_id": "T74424497"
+  },
+  {
+    "title": "To Kill a Mockingbird",
+    "price": 13.08,
+    "age_group": "20s",
+    "genre": "Classic",
+    "book_id": "B610551",
+    "transaction_id": "T96815859"
+  },
+  {
+    "title": "Where the Crawdads Sing",
+    "price": 22.72,
+    "age_group": "30s",
+    "genre": "Fiction",
+    "book_id": "B373604",
+    "transaction_id": "T62849351"
+  },
+  {
+    "title": "The Seven Husbands of Evelyn Hugo",
+    "price": 13.09,
+    "age_group": "30s",
+    "genre": "Fiction",
+    "book_id": "B316216",
+    "transaction_id": "T23059087"
+  },
+  {
+    "title": "Project Hail Mary",
+    "price": 18.82,
+    "age_group": "10s",
+    "genre": "Science Fiction",
+    "book_id": "B731605",
+    "transaction_id": "T69378825"
+  },
+  {
+    "title": "The Power of Now",
+    "price": 13.12,
+    "age_group": "20s",
+    "genre": "Spirituality",
+    "book_id": "B731956",
+    "transaction_id": "T12835444"
+  },
+  {
+    "title": "The Great Gatsby",
+    "price": 32.8,
+    "age_group": "20s",
+    "genre": "Classic",
+    "book_id": "B897039",
+    "transaction_id": "T99210434"
+  },
+  {
+    "title": "Sapiens",
+    "price": 27.52,
+    "age_group": "60s",
+    "genre": "History",
+    "book_id": "B795183",
+    "transaction_id": "T54270665"
+  },
+  {
+    "title": "Think and Grow Rich",
+    "price": 30.01,
+    "age_group": "50s",
+    "genre": "Self-Help",
+    "book_id": "B506846",
+    "transaction_id": "T42775281"
+  },
+  {
+    "title": "To Kill a Mockingbird",
+    "price": 31.73,
+    "age_group": "40s",
+    "genre": "Classic",
+    "book_id": "B462907",
+    "transaction_id": "T95377203"
+  },
+  {
+    "title": "The Power of Now",
+    "price": 17.55,
+    "age_group": "60s",
+    "genre": "Spirituality",
+    "book_id": "B717063",
+    "transaction_id": "T33697276"
+  },
+  {
+    "title": "The Silent Patient",
+    "price": 36.15,
+    "age_group": "40s",
+    "genre": "Thriller",
+    "book_id": "B827109",
+    "transaction_id": "T77388548"
+  },
+  {
+    "title": "Think and Grow Rich",
+    "price": 11.25,
+    "age_group": "50s",
+    "genre": "Self-Help",
+    "book_id": "B204326",
+    "transaction_id": "T33668721"
+  },
+  {
+    "title": "To Kill a Mockingbird",
+    "price": 28.81,
+    "age_group": "20s",
+    "genre": "Classic",
+    "book_id": "B346540",
+    "transaction_id": "T80019094"
+  },
+  {
+    "title": "Project Hail Mary",
+    "price": 15.42,
+    "age_group": "20s",
+    "genre": "Science Fiction",
+    "book_id": "B765483",
+    "transaction_id": "T43648210"
+  },
+  {
+    "title": "The Da Vinci Code",
+    "price": 18.64,
+    "age_group": "10s",
+    "genre": "Mystery",
+    "book_id": "B413089",
+    "transaction_id": "T49989988"
+  },
+  {
+    "title": "Dune",
+    "price": 17.84,
+    "age_group": "20s",
+    "genre": "Science Fiction",
+    "book_id": "B310827",
+    "transaction_id": "T89894375"
+  },
+  {
+    "title": "Atomic Habits",
+    "price": 38.58,
+    "age_group": "50s",
+    "genre": "Self-Help",
+    "book_id": "B747899",
+    "transaction_id": "T47674654"
+  },
+  {
+    "title": "1984",
+    "price": 26.29,
+    "age_group": "50s",
+    "genre": "Fiction",
+    "book_id": "B897782",
+    "transaction_id": "T19242060"
+  },
+  {
+    "title": "The Midnight Library",
+    "price": 25.61,
+    "age_group": "20s",
+    "genre": "Fiction",
+    "book_id": "B635133",
+    "transaction_id": "T33956698"
+  },
+  {
+    "title": "The Seven Husbands of Evelyn Hugo",
+    "price": 25.12,
+    "age_group": "50s",
+    "genre": "Fiction",
+    "book_id": "B776793",
+    "transaction_id": "T42355418"
+  },
+  {
+    "title": "The Midnight Library",
+    "price": 25.5,
+    "age_group": "30s",
+    "genre": "Fiction",
+    "book_id": "B467879",
+    "transaction_id": "T98598069"
+  },
+  {
+    "title": "To Kill a Mockingbird",
+    "price": 33.9,
+    "age_group": "20s",
+    "genre": "Classic",
+    "book_id": "B623268",
+    "transaction_id": "T70336128"
+  },
+  {
+    "title": "The Psychology of Money",
+    "price": 23.24,
+    "age_group": "40s",
+    "genre": "Finance",
+    "book_id": "B285960",
+    "transaction_id": "T17451613"
+  },
+  {
+    "title": "Rich Dad Poor Dad",
+    "price": 38.2,
+    "age_group": "50s",
+    "genre": "Finance",
+    "book_id": "B273430",
+    "transaction_id": "T34961520"
+  },
+  {
+    "title": "Where the Crawdads Sing",
+    "price": 26.34,
+    "age_group": "30s",
+    "genre": "Fiction",
+    "book_id": "B731669",
+    "transaction_id": "T58499790"
+  },
+  {
+    "title": "The Psychology of Money",
+    "price": 24.6,
+    "age_group": "60s",
+    "genre": "Finance",
+    "book_id": "B355739",
+    "transaction_id": "T22744262"
+  },
+  {
+    "title": "Where the Crawdads Sing",
+    "price": 15.62,
+    "age_group": "50s",
+    "genre": "Fiction",
+    "book_id": "B585904",
+    "transaction_id": "T96727155"
+  },
+  {
+    "title": "Where the Crawdads Sing",
+    "price": 39.83,
+    "age_group": "10s",
+    "genre": "Fiction",
+    "book_id": "B168948",
+    "transaction_id": "T12287184"
+  },
+  {
+    "title": "The Alchemist",
+    "price": 25.35,
+    "age_group": "30s",
+    "genre": "Fiction",
+    "book_id": "B400210",
+    "transaction_id": "T70021758"
+  },
+  {
+    "title": "Sapiens",
+    "price": 38.12,
+    "age_group": "40s",
+    "genre": "History",
+    "book_id": "B622348",
+    "transaction_id": "T58034245"
+  },
+  {
+    "title": "Rich Dad Poor Dad",
+    "price": 34.46,
+    "age_group": "20s",
+    "genre": "Finance",
+    "book_id": "B617639",
+    "transaction_id": "T50281673"
+  },
+  {
+    "title": "The Power of Now",
+    "price": 33.44,
+    "age_group": "10s",
+    "genre": "Spirituality",
+    "book_id": "B407290",
+    "transaction_id": "T26884398"
+  },
+  {
+    "title": "Rich Dad Poor Dad",
+    "price": 31.61,
+    "age_group": "50s",
+    "genre": "Finance",
+    "book_id": "B387725",
+    "transaction_id": "T27807820"
+  }
+]
