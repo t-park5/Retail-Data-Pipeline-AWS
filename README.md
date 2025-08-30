@@ -26,6 +26,7 @@ It solves a key challenge in modern retail: **efficiently processing and analyzi
 ---
 
 ## 🏗️ Architecture Overview
+![Project Architecture Diagram](./architecture_overview.png)
 ### Components
 - **S3 Buckets**
   - Source bucket: raw CSV/JSON
