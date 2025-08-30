@@ -51,6 +51,7 @@ It solves a key challenge in modern retail: **efficiently processing and analyzi
 ---
 
 ## 🔄 Processing Flow
+![Project workflow Diagram](./step_functions_workflow.png)
 1. **Data Ingestion**  
    Uploading files (CSV, JSON) to the S3 source bucket triggers **EventBridge** and starts the pipeline.  
 
