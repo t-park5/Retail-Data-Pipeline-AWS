@@ -85,7 +85,8 @@ It solves a key challenge in modern retail: **efficiently processing and analyzi
 
 ---
 
-## ⚡ Getting Started
+## ⚡ Live Demo
+[![demo_video](https://img.youtube.com/vi/Kj8W9ZGIoaw/0.jpg)](https://www.youtube.com/watch?v=Kj8W9ZGIoaw)
 1. Upload transaction files (`CSV`, `JSON`) to the **S3 source bucket**.  
 2. The pipeline will automatically:
    - Validate the file format  
